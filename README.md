@@ -14,7 +14,7 @@ Tamanho do arquivo: 850 MB
 # Command Machine
 Explore a aplicação presente no servidor por meio de Command Injection.
 
-![alt text](https://github.com/blu3keep/Images/blob/main/Web-dev.png)
+![alt text](https://github.com/blu3keep/Images/blob/main/Command-machine.png)
 
 Link para download da máquina --> [Aqui](https://mega.nz/file/G49HhA5D#bfoaTtP9Behptlj00gQU3TyH9M4Y-K1IerM_S5MoZa8)
 
