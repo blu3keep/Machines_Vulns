@@ -12,7 +12,7 @@ A configuração de IP da máquina está como DHCP.
 
 Tamanho do arquivo: 850 MB
 
-# WEB-DEV Machine
+# DEV-COMMAND Machine
 Explore a aplicação presente no servidor por meio de Command Injection.
 
 ![alt text](https://github.com/blu3keep/Images/blob/main/Web-dev.png)
