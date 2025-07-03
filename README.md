@@ -21,3 +21,6 @@ Link para download da máquina --> [Aqui](https://mega.nz/file/G49HhA5D#bfoaTtP9
 A configuração de IP da máquina está como DHCP.
 
 Tamanho do arquivo: 597 MB
+
+
+Deseja colaborar com o projeto? Entre em contato pelo e-mail suporte@lab-offsec.com.br.
