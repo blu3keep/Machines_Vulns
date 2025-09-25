@@ -5,7 +5,7 @@ Explore a aplicação presente no servidor por meio de SSRF.
 
 ![alt text](https://github.com/blu3keep/Images/blob/main/SSRF.png)
 
-Link para download da máquina --> [Aqui](https://mega.nz/file/2xVmQJRY#XS5A5K_0DhEG636xnGwWr7ybuHL-qiF4pfms4zPHkLI)
+Link para download da máquina --> [Aqui](https://mega.nz/file/G5UzGKhT#oK2VQt2Nba6reXfOhgIo4DeMP6F00qQZEan_C1CFWkk)
 
 A configuração de IP da máquina está como DHCP.
 
