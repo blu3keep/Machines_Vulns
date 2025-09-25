@@ -16,7 +16,7 @@ Explore a aplicação presente no servidor por meio de Code Injection.
 
 ![alt text](https://github.com/blu3keep/Images/blob/main/Command-machine.png)
 
-Link para download da máquina --> [Aqui](https://mega.nz/file/G49HhA5D#bfoaTtP9Behptlj00gQU3TyH9M4Y-K1IerM_S5MoZa8)
+Link para download da máquina --> [Aqui](https://mega.nz/file/S58ihJ4J#yz19-8deDDb6VGDuQHbIR4iYmJq-pmoz4MN1xJtaLzg)
 
 A configuração de IP da máquina está como DHCP.
 
